@@ -1,0 +1,14 @@
+@font-face {
+    font-family: RockwellNova-Bold;
+    src: url(./rockwell/RockwellNova-Bold.ttf);
+}
+
+@font-face {
+    font-family: RockwellNova-Light;
+    src: url(./rockwell/RockwellNova-Light.ttf);
+}
+
+@font-face {
+    font-family: RockwellNova;
+    src: url(./rockwell/RockwellNova.ttf);
+}
